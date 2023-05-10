@@ -1,4 +1,4 @@
-# CypressTutorial
+# CypressTutorial Parte 2
 Repositorio correspondiente al tutorial de cypress
 
 NO MERGEAR A MASTER SIN LEER ESTO!
