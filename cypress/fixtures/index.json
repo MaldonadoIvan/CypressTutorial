@@ -1,5 +1,4 @@
 {
-    "searchInput" : "[size='14']",
-    "searchButton" : "[name='searchProducts']"
-
+    "searchBox": "[size='14']",
+    "searchButton": "[name='searchProducts']"
 }
