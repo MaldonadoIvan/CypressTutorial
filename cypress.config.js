@@ -6,6 +6,5 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     baseUrl: 'https://petstore.octoperf.com/actions/Catalog.action',
-    supportFile: false,
   },
 });
