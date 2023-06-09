@@ -11,4 +11,9 @@ describe('Search elements', ()=>{
     it('search for elements with no results', ()=>{
         cy.search('Border collie')
     })
+    it('search for elements with especial code', ()=> {
+        cy.readFile('cypress/support/text/search.txt').then((text)=>{
+            cy.search(text);
+        })
+    })
 })
