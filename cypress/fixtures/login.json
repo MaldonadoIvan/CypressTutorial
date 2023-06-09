@@ -1,0 +1,8 @@
+{
+    "menuMiCuenta": ".right > [slot='menu-login'] > teco-menu.hydrated > .menu > .menu__header > .hide-on-med-and-down > p",
+    "loginLink": ".right > [slot='menu-login'] > teco-menu.hydrated > .menu > .menu__content > :nth-child(1) > a > p",
+    "email": "#idToken1",
+    "password": "#idToken2",
+    "loginButton": "#loginButton",
+    "incorrectLoginBanner": ".message"
+}
